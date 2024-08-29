@@ -12,6 +12,7 @@
 
 ## 备注
 在未来，若服主因学业问题无限期停止更新，[@HXS__](https://github.com/FoxLlN) 将会接替我的工作继续进行服务器内容的开发（除附魔插件外）。
+
 感谢 [@HAPPYLAND_Dev](https://github.com/HAPPYLAND-Dev) 开发组 [@xiaozhangup](https://github.com/xiaozhangup) 的帮助。
 
 Copyright ©️ 2021-2024 Mical HXS__ TwiShimmer. All Rights Reserved.
